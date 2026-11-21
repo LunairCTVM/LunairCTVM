@@ -1,16 +1,20 @@
-## Hi there 👋
+# Lunair
 
-<!--
-**LunairCTVM/LunairCTVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently in 8th grade and passionate about programming. I mainly code in Python, building both command-line tools (CLI) and graphical user interfaces (GUI).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- Python development
+- Command-line tools and terminal scripts
+- GUI applications
+- Exploring networking and sockets
+
+---
+
+## Links & Contact
+
+- Website: https://lunair.fun
+- Discord: `7vmr`
+- GitHub: https://github.com/Lunair394
