@@ -17,4 +17,4 @@ Middle school student passionate about programming. I mainly code in Python, bui
 - Discord: `7vmr`
 - Telegram: `@xW6Ek`
 - Website: https://lunair.fun
-- GitHub: https://github.com/Lunair394
+- GitHub: https://github.com/LunairCTVM
