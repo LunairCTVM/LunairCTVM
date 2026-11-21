@@ -1,13 +1,13 @@
 # Lunair
 
-Currently in 8th grade and passionate about programming. I mainly code in Python, building both command-line tools (CLI) and graphical user interfaces (GUI).
+Currently in 8th grade and passionate about programming. I mainly code in Python, building both CLI and graphical user interfaces (GUI).
 
 ---
 
 ## What I do
 
 - Python development
-- Command-line tools and terminal scripts
+- CLI
 - GUI applications
 - Exploring networking and sockets
 
