@@ -14,8 +14,8 @@ Currently in 4e grade and passionate about programming. I mainly code in Python,
 ---
 
 ## Links & Contact
-
-- Website: https://lunair.fun
 - Discord: `7vmr`
-- GitHub: https://github.com/Lunair394
 - Telegram: `@xW6Ek`
+- Website: https://lunair.fun
+- GitHub: https://github.com/Lunair394
+
