@@ -1,6 +1,6 @@
 # Lunair
 
-Currently in 8th grade and passionate about programming. I mainly code in Python, building both CLI and graphical user interfaces (GUI).
+Currently in 4e grade and passionate about programming. I mainly code in Python, building both CLI and graphical user interfaces GUI.
 
 ---
 
@@ -18,3 +18,4 @@ Currently in 8th grade and passionate about programming. I mainly code in Python
 - Website: https://lunair.fun
 - Discord: `7vmr`
 - GitHub: https://github.com/Lunair394
+- Telegram: `@xW6Ek`
